@@ -90,6 +90,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // Initialize app
+  // ...existing code...
   fetchActivities();
 });
